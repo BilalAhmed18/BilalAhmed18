@@ -17,7 +17,7 @@ I'm Bilal Ahmed, a passionate Data Analyst. I recently completed a data analyst 
 
 ## 🏆 Certifications
 
-- **Data Analytics Bootcamp 2.0:** With Practical Job Assistance + AI Module by Codebasics (Aug 2024)
+- **Data Analytics Bootcamp 2.0:** With Practical Job Assistance + AI Module by Codebasics
 
 ## 📊 Projects
 
