@@ -21,14 +21,9 @@ I'm Bilal Ahmed, a passionate Data Analyst. I recently completed a data analyst 
 
 ## 📊 Projects
 
-You can check out all my projects on GitHub:
+Feel free to explore my projects on GitHub to see my work:
 
-- [Hospitality Analysis – Hotel Chain Business](https://github.com/your-profile/hospitality-analysis)
-- [Finance & Supply Chain – Brick & Mortar and E-commerce](https://github.com/your-profile/finance-supply-chain)
-- [Business 360 - Brick & Mortar and E-commerce](https://github.com/your-profile/business-360)
-- [Sales and Finance Report – Retail Company](https://github.com/your-profile/sales-finance-report)
-
-Feel free to explore these projects and reach out if you have any questions or feedback!
+- [Explore My Projects on GitHub](https://github.com/your-profile)
 
 ## 📫 How to Reach Me
 
