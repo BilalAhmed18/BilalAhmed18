@@ -23,7 +23,7 @@ I'm Bilal Ahmed, a passionate Data Analyst. I recently completed a data analyst 
 
 Feel free to explore my projects on GitHub to see my work:
 
-- [Explore My Projects on GitHub](https://github.com/your-profile)
+- [Explore My Projects on GitHub](https://github.com/BilalAhmed18?tab=repositories)
 
 ## 📫 How to Reach Me
 
