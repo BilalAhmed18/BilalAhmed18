@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm Bilal Ahmed, a passionate Data Analyst. I recently completed a data analyst bootcamp and am looking to break into the Data Analyst industry. Currently, I work as a Clinic Representative at Aanvii Hearing Solution, where I apply my analytical skills to improve business operations.
+Welcome to my GitHub profile!, a passionate Data Analyst. I recently completed a data analyst bootcamp and am looking to break into the Data Analyst industry. Currently, I work as a Clinic Representative at Aanvii Hearing Solution, where I apply my analytical skills to improve business operations.
 
 ## 🛠 Skills
 
